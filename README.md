@@ -16,6 +16,24 @@
   <img src="https://img.shields.io/badge/TanStack_Query-v5-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" alt="React Query" />
 </p>
 
+<p align="center">
+  <a href="https://expo.dev/accounts/shakib_akando/projects/abohawa/builds/3c40f419-8088-407d-b210-9f1554a77e0f">
+    <img src="https://img.shields.io/badge/📥_Download-Latest_Android_APK-00C853?style=for-the-badge&logo=android&logoColor=white" alt="Download Android APK" />
+  </a>
+</p>
+
+---
+
+## 📥 Download App (Android APK)
+
+Get the latest build directly on your Android device:
+
+| Version | Platform | Status | Direct Download |
+|:---:|:---:|:---:|:---:|
+| **v1.0.0** | Android (Universal `.apk`) | 🟢 Stable | [**📲 Download Abohawa APK**](https://expo.dev/accounts/shakib_akando/projects/abohawa/builds/3c40f419-8088-407d-b210-9f1554a77e0f) |
+
+> 💡 **Installation Tip:** When installing on Android, if Google Play Protect shows a prompt, tap **"More details"** ➔ **"Install anyway"**.
+
 ---
 
 ## ✨ Features
